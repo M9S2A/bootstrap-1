@@ -1,0 +1,5 @@
+.box {
+  width: 500px;
+  background-color: aqua;
+  border: 3px solid rgba(57, 17, 238, 0.466);
+}
